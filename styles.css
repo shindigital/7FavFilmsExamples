@@ -1,0 +1,42 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12pt;
+	background: #333;
+}
+
+header {
+	border-bottom: 2px solid grey; 
+	background-color: white;
+	margin-left: 40px; margin-right: 40px;
+	padding: 10px;
+}
+
+header h1 { 
+	font-size: 24pt; color: darkred; margin-bottom: 0px; 
+ }
+
+header h2 {
+	font-size: 20pt; font-style: italic; margin-top: 0px; margin-bottom: 0px; padding-bottom: 20px;
+}
+
+main {
+	margin-left: 40px; margin-right: 40px;
+    margin-top: 0px; margin-bottom: 0px;
+	background-color: #ddd;
+	padding: 10px;	
+}
+
+ul li { margin-bottom: 1em; margin-right: 100px;}
+ul li a { font-weight: bold; }
+
+footer { font-size: 10pt; 
+		border-top: 1px solid grey;
+		padding: 5px;
+		background: grey;
+		color: white;
+		margin-left: 40px; margin-right: 40px;
+	}
+
+footer a {
+	color: white;
+}
